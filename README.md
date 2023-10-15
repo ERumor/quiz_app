@@ -17,4 +17,4 @@ Stack:
 Application show:
 - Quiz =>
 
-<img src="!https://github.com/ERumor/quiz_app/assets/57027295/448f5493-389f-495a-ab5c-78899e919869" width=30% height=30%/>
+<img src="https://github.com/ERumor/quiz_app/assets/57027295/11da88dd-55af-4ad1-b4a2-e23e06a74a68" width=30% height=30%/>

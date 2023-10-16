@@ -1,6 +1,6 @@
 ## About
 
-Quiz app for Android. The quiz contains questions and possible answers, results of passing the quiz.
+Quiz app for Android. Flutter knowledge questions about widgets etc. The quiz contains questions and possible answers, results of passing the quiz.
 
 ## Documentation
 

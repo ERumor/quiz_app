@@ -4,14 +4,16 @@ Quiz app for Android. The quiz contains questions and possible answers, results 
 
 ## Documentation
 
-Features:
+**Features:**
 - Four-choice quiz.
 - Quiz results, number of correct answers.
 - Possibility to restart the quiz.
 - Questions about flutter knowledge.
 
-Stack:
+**Stack:**
 - Visual Studio Code, Flutter/Dart. 
+
+**Packages:** 
 - google_fonts
 
 Application show:
